@@ -29,13 +29,11 @@ If I were to describe myself in one line, I'm a `developer who knows how to catc
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=FFFFFF"/>
 <!-- Spring Boot -->
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=FFFFFF"/>
-
 <!-- NodeJS -->
 <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=Node.js&logoColor=FFFFFF"/>
 <!-- NestJS -->
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=FFFFFF"/>
 
-<br/>
 
 *Database*
 
@@ -46,21 +44,17 @@ If I were to describe myself in one line, I'm a `developer who knows how to catc
 <!-- Redis -->
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=FFFFFF"/>
 
-<br/>
 
-<!-- Language -->
 *Language*
 
 <!-- java -->
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=JAVA&logoColor=FFFFFF"/>
 <!-- Kotlin -->
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=FFFFFF"/>
-
 <!-- JavaScript -->
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=FFFFFF"/>
 <!-- TypeScript -->
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=Typescript&logoColor=FFFFFF"/>
-
 <!-- C -->
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=FFFFFF"/>
 <!-- C++ -->
@@ -68,7 +62,6 @@ If I were to describe myself in one line, I'm a `developer who knows how to catc
 <!-- Python -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF"/>
 
-<br/>
 
 *Infrastucture*
 
@@ -79,7 +72,6 @@ If I were to describe myself in one line, I'm a `developer who knows how to catc
 <!-- Github Actions -->
 <img src="https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=Github Actions&logoColor=FFFFFF"/>
 
-<br/>
 
 *Monitoring*
 <!-- Prometheus -->
@@ -87,7 +79,6 @@ If I were to describe myself in one line, I'm a `developer who knows how to catc
 <!-- Grafana -->
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=FFFFFF"/>
 
-<br/>
 
 *Development & Collaboration Tools*
 <!-- Git -->
@@ -100,7 +91,6 @@ If I were to describe myself in one line, I'm a `developer who knows how to catc
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=FFFFFF"/>
 <!-- Postman -->
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=FFFFFF"/>
-
 <!-- Github -->
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=FFFFFF"/>
 <!-- Notion -->
@@ -122,7 +112,7 @@ If I were to describe myself in one line, I'm a `developer who knows how to catc
 
 ## 📫 Contact Me
 
-If you are more curious about me, visit the portfolio site below.
+If you are more curious about me, visit my portfolio site below.
 - [Portfolio](https://sichoi.dev/)
 
 <br/>
