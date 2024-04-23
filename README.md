@@ -16,15 +16,15 @@ To introduce myself in one line, I `love to automate repetitive and boring tasks
 
 <h2> 👩‍💻 Project <h2>
 
-**Web service for renting and returning more than 500 cabinets [Cabi](https://cabi.oopy.io/)**
+**[Cabi](https://cabi.oopy.io/) - Web service for renting and returning more than 500 cabinets**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=innovationacademy-kr&repo=42cabi&theme=dark)](https://github.com/innovationacademy-kr/42cabi)
 
-**iOS Service for Sharying Diary with loved ones [공유일기](https://apps.apple.com/kr/app/%EA%B3%B5%EC%9C%A0%EC%9D%BC%EA%B8%B0/id6474495000)**
+**[공유일기](https://apps.apple.com/kr/app/%EA%B3%B5%EC%9C%A0%EC%9D%BC%EA%B8%B0/id6474495000) - iOS Service for Sharying Diary with loved ones**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joHoEunSaE&repo=Exchange_Diary&theme=dark)](https://github.com/joHoEunSaE/Exchange_Diary/)
 
-**Github Action library for cleaning up stale branches [cleaning-up-stale-branches](https://github.com/marketplace/actions/cleaning-up-stale-branches)**
+**[cleaning-up-stale-branches](https://github.com/marketplace/actions/cleaning-up-stale-branches) - Github Action library for cleaning up stale branches**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sichoi42&repo=cleanup-stale-branch&theme=dark)](https://github.com/sichoi42/cleanup-stale-branch)
 
