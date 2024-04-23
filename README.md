@@ -1,7 +1,5 @@
 <h2>👋 Hi there, I'm Siwon Choi</h2>
 
-<!-- ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsichoi42) -->
-
 I'm a `Software Engineer` who is interested in `DevOps`, `SRE`, `Cloud Architect`,`Backend Development`.
 
 I enjoy `learning new technologies` to solve given problems and `sharing that knowledge with others`.
@@ -16,7 +14,19 @@ To introduce myself in one line, I `love to automate repetitive and boring tasks
 
 - 🔖 This is my **👉 [Portfolio](https://blog.sichoi.dev/about/) 🤏** site.
 
-<h2>🛠️ Tech Stack</h2>
+<h2> 👩‍💻 Project <h2>
+
+**500여개 사물함 대여/반납 웹 서비스 [Cabi](https://cabi.oopy.io/)**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=innovationacademy-kr&repo=42cabi&theme=dark)](https://github.com/innovationacademy-kr/42cabi)
+
+**공유 일기 iOS 서비스 [공유일기](https://apps.apple.com/kr/app/%EA%B3%B5%EC%9C%A0%EC%9D%BC%EA%B8%B0/id6474495000)**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joHoEunSaE&repo=Exchange_Diary&theme=dark)](https://github.com/joHoEunSaE/Exchange_Diary/)
+
+**브랜치 자동 청소 Github Aciton 라이브러리 [cleaning-up-stale-branches](https://github.com/marketplace/actions/cleaning-up-stale-branches)**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sichoi42&repo=cleanup-stale-branch&theme=dark)](https://github.com/sichoi42/cleanup-stale-branch)
 
 _Framework_
 
