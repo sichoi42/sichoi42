@@ -2,7 +2,7 @@
 
 저는 `DevOps`, `SRE`, `Cloud Architect`, `Backend Development`에 관심이 많은 `Software Developer`입니다.
 
-- 🔖 <big>**👉 [Portfolio Site](https://sichoi.dev/) 🤏**</big>
+- 🔖 <big>**👉 [Portfolio Site](https://sichoi.dev/) 👈**</big>
 
 - 🏫 저는 현재 [동국대학교](https://www.dongguk.edu/), `컴퓨터공학과` 4학년에 재학중입니다.
 
