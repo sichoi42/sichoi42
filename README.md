@@ -1,30 +1,36 @@
-<h2>👋 최시원 (Siwon Choi), Software Developer </h2>
+## 👋 Hi there, I'm Siwon Choi (sichoi)
 
-저는 `DevOps`, `SRE`, `Cloud Architect`, `Backend Development`에 관심이 많은 `Software Developer`입니다.
+I'm a `Software Engineer` who is interested in `DevOps`, `SRE`, `Cloud Architect`, `Backend Development`.
 
-- 🔖 <big>**👉 [Portfolio Site](https://sichoi.dev/) 👈**</big>
+To introduce myself in one line, I am a developer who enjoys `automating` inefficient tasks and who practices them.
 
-- 🏫 저는 현재 [동국대학교](https://www.dongguk.edu/), `컴퓨터공학과` 4학년에 재학중입니다.
+### My Portfolio Site 👉 [Portfolio Site](https://sichoi.dev/) 👈
 
-- 🌱 저는 현재 `AWS`, `Prometheus/Grafana`를 공부하고 있습니다.
+- 📝 I regularly write posts on our [Team Blog](https://cabi.oopy.io/c1b17c89-20f6-4ec6-8005-e53e8db00b26).
+- 🌱 I am currently revisiting the `C/C++` assignments I did at 42 Seoul, linking them with my computer science knowledge.
 
-- 📝 저는 자주 [팀 블로그](https://cabi.oopy.io/c1b17c89-20f6-4ec6-8005-e53e8db00b26)에 아카이브를 작성해요.
+## 🏫 Education
 
-<h2> 👩‍💻 Project </h2>
+- I am in my fourth year pursuing a Bachelor's degree in `Computer Science and Engineering` at [Dongguk University](https://cse.dongguk.edu/main).
 
-**[Cabi](https://cabi.oopy.io/) - 500여개의 사물함을 대여/반납할 수 있는 웹서비스**
+- I have completed the core curriculum at [42 Seoul](https://42seoul.kr/), a software education institution, which is equivalent to a bachelor’s degree program in computer science. (See my [resume](https://companies.intra.42.fr/resumes/sichoi) at 42 Seoul for more details.)
+
+
+## 👩‍💻 Project
+
+**[Cabi](https://cabi.oopy.io/) - Web service for renting and returning over 500 lockers**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=innovationacademy-kr&repo=42cabi&theme=dark)](https://github.com/innovationacademy-kr/42cabi)
 
-**[공유일기](https://apps.apple.com/kr/app/%EA%B3%B5%EC%9C%A0%EC%9D%BC%EA%B8%B0/id6474495000) - 소중한 사람과 함께 일기를 공유하는 iOS 앱 서비스**
+**[공유일기](https://apps.apple.com/kr/app/%EA%B3%B5%EC%9C%A0%EC%9D%BC%EA%B8%B0/id6474495000) - iOS App service for sharing diaries with loved ones**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joHoEunSaE&repo=Exchange_Diary&theme=dark)](https://github.com/joHoEunSaE/Exchange_Diary/)
 
-**[cleaning-up-stale-branches](https://github.com/marketplace/actions/cleaning-up-stale-branches) - 오래된 브랜치를 자동으로 정리해주는 Github Actions 라이브러리**
+**[cleaning-up-stale-branches](https://github.com/marketplace/actions/cleaning-up-stale-branches) - Github Actions library that automatically cleans up old branches**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sichoi42&repo=cleanup-stale-branch&theme=dark)](https://github.com/sichoi42/cleanup-stale-branch)
 
-**[prometheus_grafana_quickstart](https://github.com/sichoi42/prometheus_grafana_quickstart) - Docker Compose와 ShellScript를 이용하여 손쉽게 모니터링 시스템을 구축하는 프로젝트**
+**[prometheus_grafana_quickstart](https://github.com/sichoi42/prometheus_grafana_quickstart) - A project that simplifies setting up a monitoring system using Docker Compose and ShellScript**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sichoi42&repo=prometheus_grafana_quickstart&theme=dark)](https://github.com/sichoi42/prometheus_grafana_quickstart)
 
@@ -59,6 +65,8 @@ _Development & Collaboration Tools_
 
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=FFFFFF"/>
 
+
+
 ## 📚 Github Stats
 
 [![Siwon Choi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sichoi42&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
@@ -67,10 +75,7 @@ _Development & Collaboration Tools_
 
 [![Siwon Choi's trophys](https://github-profile-trophy.vercel.app/?username=sichoi42&no-bg=true&column=7&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 📫 Contact Me
-
-저에 대해 더 궁금하시다면 언제든지 연락주세요! 기다리고 있겠습니다! 😊
-
+## 📫 Contact me
 <a href="mailto:42.4.sichoi@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/>
 <a href="https://www.linkedin.com/in/최시원/">
